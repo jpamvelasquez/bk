@@ -526,7 +526,7 @@ color:rgb(174, 59, 31);
 .newfont{
     font-family:'Lexend';
     font-weight: 500;
-    text-shadow: -4px 2px 1px rgba(178, 209, 182, 1);
+    text-shadow: -3px 5px 0px rgba(79,123,115,0.44);
 }
 
 .card{
